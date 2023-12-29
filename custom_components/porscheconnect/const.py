@@ -6,6 +6,14 @@ from homeassistant.components.sensor import (
     SensorDeviceClass,
 )
 
+"""Constants fimport logging
+from dataclasses import dataclass
+from dataclasses import field
+
+from homeassistant.components.sensor import (
+    SensorDeviceClass,
+)
+
 """Constants for the Porsche Connect integration."""
 
 DOMAIN = "porscheconnect"
